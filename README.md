@@ -9,4 +9,4 @@
 
 #Use Ctrl-H to select all the UserName
 
-#Rename all "UserName" to "Mark"
+#Example rename all "UserName" to "Mark"
