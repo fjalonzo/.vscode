@@ -1,7 +1,7 @@
 
 # .vscode
 
-#Visual Studio Code for ESP-MDF components for C Programming in ESP32
+#ESP-MDF components for Visual Studio Code C Programming in ESP32
 
 #Change USerName into the PC username
 #Use Ctrl-H to select all the UserName
