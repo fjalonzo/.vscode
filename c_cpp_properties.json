@@ -15,9 +15,10 @@
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mcommon/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mconfig/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mespnow/include",
+                "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mlink/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mupgrade/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mwifi/include",
-                "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/third_party/include",
+                "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/third_party/miniz/include",
 
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/esp-idf/components/app_trace/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/esp-idf/components/app_update/include",
@@ -208,9 +209,10 @@
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mcommon/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mconfig/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mespnow/include",
+                "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mlink/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mupgrade/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/mwifi/include",
-                "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/third_party/include",
+                "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/components/third_party/miniz/include",
 
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/esp-idf/components/app_trace/include",
                 "C:/msys32/home/FrancisJeralyn/esp/esp-mdf/esp-idf/components/app_update/include",
